@@ -1,8 +1,8 @@
 const CACHE_NAME = 'turnos-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  '/dist/',
+  '/dist/index.html',
+  '/dist/manifest.json'
 ];
 
 self.addEventListener('install', event => {
