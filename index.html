@@ -5,6 +5,14 @@
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>app-turnos</title>
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="apple-touch-icon" href="./icon-192.png" />
+    <meta name="theme-color" content="#10b981" />
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js');
+      }
+    </script>
     <script type="module" crossorigin src="./assets/index-DTdBqIUn.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-C_dPb0fN.css">
   </head>
@@ -12,3 +20,14 @@
     <div id="root"></div>
   </body>
 </html>
+
+
+
+<link rel="manifest" href="./manifest.json" />
+<link rel="apple-touch-icon" href="./icon-192.png" />
+<meta name="theme-color" content="#10b981" />
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js');
+  }
+</script>
