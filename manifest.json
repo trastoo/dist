@@ -4,8 +4,8 @@
   "description": "Gestión de turnos rotativos",
   "start_url": "/dist/",
   "display": "standalone",
-  "theme_color": "#10b981",
-  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "icons": [
     {
       "src": "/dist/icon-192.png",
