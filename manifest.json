@@ -2,20 +2,20 @@
   "name": "Quadrante",
   "short_name": "Quadrante",
   "description": "Gestión de turnos rotativos",
-  "start_url": "/dist/index.html",
+  "start_url": "/dist/",
   "scope": "/dist/",
   "display": "standalone",
   "theme_color": "#10b981",
-  "background_color": "#ffffff",
+  "background_color": "#000000",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/dist/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/dist/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
