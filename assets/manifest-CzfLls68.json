@@ -2,7 +2,7 @@
   "name": "Quadrante",
   "short_name": "Quadrante",
   "description": "Gestión de turnos rotativos",
-  "start_url": "/dist/",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000",
