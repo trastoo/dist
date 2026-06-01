@@ -1,6 +1,6 @@
 {
-  "name": "acaip - Turnos",
-  "short_name": "Turnos",
+  "name": "Quadrante",
+  "short_name": "Quadrante",
   "description": "Gestión de turnos rotativos",
   "start_url": "/dist/",
   "display": "standalone",
