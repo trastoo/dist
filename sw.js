@@ -1,10 +1,10 @@
 const CACHE_NAME = 'quadrante-v1';
 const urlsToCache = [
-  './',
-  './index.html',
-  './manifest.json',
-  './icon-192.png',
-  './icon-512.png'
+  '/dist/',
+  '/dist/index.html',
+  '/dist/manifest.json',
+  '/dist/icon-192.png',
+  '/dist/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
